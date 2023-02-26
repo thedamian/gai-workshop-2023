@@ -1,0 +1,4 @@
+notebooks/config.json
+notebooks/azureml_automl.log
+notebooks/automl.log
+notebooks/metadata.csv
