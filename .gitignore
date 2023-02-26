@@ -2,4 +2,8 @@ notebooks/config.json
 notebooks/azureml_automl.log
 notebooks/automl.log
 notebooks/metadata.csv
+<<<<<<< HEAD
 notebooks/azureml
+=======
+notebooks/.ipynb_checkpoints
+>>>>>>> 9b34bf7b8e5e29e1f62de8cd43c6f12780a75222
